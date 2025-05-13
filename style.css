@@ -118,5 +118,82 @@ header {
 
 }
 
+.feature {
+    display: flex;
+    justify-content: space-between;
+    padding: 90px;
+    font-size: 18px;
+    text-align: center;
+}
 
+.feature h5 {
+    padding-top: 40px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
 
+.feature p {
+    opacity: 50% ;
+}
+
+.endlanding {
+    height: 500px;
+    background-color: #FEFBF2;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.userquote {
+    width: 960px;
+    height: 280px;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 600;
+}
+
+.rating {
+    display: flex;
+    padding-top: 75px;
+}
+
+.name {
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+.name p {
+    opacity: 50%;
+}
+
+.ending {
+    background-color: #EEF2FF;
+    height: 502px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+}
+
+.midpage {
+    width: 564px;
+    height: 288px;
+    justify-content: center;
+    align-items: center;
+}
+.midpage h1 {
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.minibox {
+    width: 385px;
+    height: 64px;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 89.5px;
+    margin-top: 30px;
+    opacity: 50%;
+}
